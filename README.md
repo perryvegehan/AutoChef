@@ -1,1 +1,1 @@
-# AutoChef
+# AutoChef- It is a program which automates the task of opening any competetive programming site and submitting the final solution to any problem. It uses puppeteer library in javascript to achieve the task
